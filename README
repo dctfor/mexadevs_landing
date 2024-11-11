@@ -1,0 +1,71 @@
+# MexaDevs Landing Page
+
+This is the repository for the MexaDevs landing page, a modern and responsive website built with React, TypeScript, and Tailwind CSS. The project aims to showcase the services and expertise of MexaDevs, a company specializing in digital solutions.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scripts](#scripts)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Responsive Design**: The website is fully responsive and works on all devices.
+- **Multilingual Support**: Supports English and Spanish languages.
+- **Animated Components**: Uses Framer Motion for smooth animations.
+- **Contact Form**: Includes a contact form with validation.
+- **Modern Technologies**: Built with React, TypeScript, and Tailwind CSS.
+
+## Installation
+
+To get started with the project, clone the repository and install the dependencies:
+```bash
+git clone https://github.com/yourusername/mexadevs_landing.git
+cd mexadevs_landing
+npm install
+```
+
+## Usage
+
+To start the development server, run:
+```bash
+npm start
+```
+
+This will launch the website on `http://localhost:3000`.
+
+## Scripts
+
+- `npm start`: Starts the development server.
+- `npm run build`: Builds the project for production.
+- `npm test`: Runs the test suite.
+- `npm run lint`: Lints the codebase.
+
+## Folder Structure
+
+- `src/`: Contains the source code.
+- `public/`: Contains the public assets.
+- `build/`: Contains the production build.
+
+## Alternative Scripts
+
+- `npm run build`: Builds the project for production.
+- `npm run preview`: Previews the production build locally.
+
+To build the project and preview the production build, run:
+```bash
+npm run build
+npm run preview
+```
+
+## Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
