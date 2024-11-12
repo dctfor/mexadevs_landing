@@ -61,7 +61,7 @@ export function MainContent() {
             </div>
             <div className="relative">
               <img 
-                src={`${process.env.PUBLIC_URL}/assets/photo-1553877522-43269d4ea984.webp`}
+                src={`./assets/photo-1553877522-43269d4ea984.webp`}
                 alt="Team collaboration"
                 className="rounded-xl shadow-2xl"
               />

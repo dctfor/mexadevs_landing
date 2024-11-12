@@ -11,7 +11,7 @@ export function Hero() {
     <header className="relative h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img 
-          src={`${process.env.PUBLIC_URL}/assets/photo-1451187580459-43490279c0fa.webp`}
+          src={`./assets/photo-1451187580459-43490279c0fa.webp`}
           alt="Technology Background"
           className="w-full h-full object-cover opacity-20"
         />
