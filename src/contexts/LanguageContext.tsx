@@ -51,7 +51,7 @@ const translations = {
     'services.webDesc': 'Sitios web modernos y responsivos construidos con las últimas tecnologías',
     'services.software': 'Software a Medida',
     'services.softwareDesc': 'Soluciones personalizadas para satisfacer las necesidades específicas de tu negocio',
-    'services.team': 'Pornto También Ampliación de Equipos',
+    'services.team': 'Proximamente Ampliación de Equipos',
     'services.teamDesc': 'Desarrolladores calificados estarán listos para unirse a tu equipo existente',
     'why.title': '¿Por qué elegir Mexadevs?',
     'why.point1': 'Equipo experto con diversos conocimientos técnicos',
